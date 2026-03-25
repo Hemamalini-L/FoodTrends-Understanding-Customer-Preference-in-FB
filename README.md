@@ -5,6 +5,10 @@
 
 As part of my data analytics learning and project work, I developed an interactive Power BI dashboard to analyze food preferences, nutritional intake, and lifestyle impact on health.
 
+<img width="1264" height="705" alt="Screenshot 2026-03-25 183057" src="https://github.com/user-attachments/assets/415b9706-20da-4621-870e-c79ccbae517b" />
+
+
+
 This project focuses on understanding how dietary habits, breakfast choices, and activity levels influence key health indicators such as BMI, calorie intake, protein consumption, and overall nutrition patterns.
 
 🎯 Project Objective
