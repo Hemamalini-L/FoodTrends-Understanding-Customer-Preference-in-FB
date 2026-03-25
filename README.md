@@ -5,10 +5,6 @@
 
 As part of my data analytics learning and project work, I developed an interactive Power BI dashboard to analyze food preferences, nutritional intake, and lifestyle impact on health.
 
-<img width="1264" height="705" alt="Screenshot 2026-03-25 183057" src="https://github.com/user-attachments/assets/415b9706-20da-4621-870e-c79ccbae517b" />
-
-
-
 This project focuses on understanding how dietary habits, breakfast choices, and activity levels influence key health indicators such as BMI, calorie intake, protein consumption, and overall nutrition patterns.
 
 🎯 Project Objective
@@ -27,11 +23,17 @@ General summary of dataset
 Key metrics and high-level insights
 Distribution of food preferences
 
+<img width="1264" height="705" alt="Screenshot 2026-03-25 183057" src="https://github.com/user-attachments/assets/8321a02a-dbb2-440f-b09c-aca02adb9399" />
+
+
 🟡 Slide 2: Dietary Preference & Averages
 
 Comparison of nutrients across dietary types
 Average calorie, protein, and sugar intake
 Insights into vegetarian, vegan, and omnivore diets
+
+<img width="1254" height="702" alt="Screenshot 2026-03-25 183132" src="https://github.com/user-attachments/assets/e15ff9ae-4787-40cd-9b81-86ca0e3d35a0" />
+
 
 🔵 Slide 3: Nutrients & Disease
 
@@ -39,11 +41,17 @@ Relationship between nutrition and health conditions
 Identification of risk factors
 Impact of sugar, fat, and calories
 
+<img width="1251" height="699" alt="Screenshot 2026-03-25 183237" src="https://github.com/user-attachments/assets/827c9cc6-186e-4115-b34b-83a4997c128d" />
+
+
 🟣 Slide 4: Averages by Breakfast Suggestions
 
 Nutritional comparison of breakfast options
 Analysis of calories, protein, fiber, and sugar
 Identification of healthier breakfast choices
+
+<img width="1245" height="690" alt="Screenshot 2026-03-25 183312" src="https://github.com/user-attachments/assets/2f4344d5-315f-45d4-a96b-f23077d5bd97" />
+
 
 🟠 Slide 5: Lifestyle & Nutrition Impact
 
@@ -52,17 +60,8 @@ Relationship between BMI and lifestyle
 Protein intake comparison by dietary preference
 Distribution of dietary habits
 
-🔴 Slide 6: Nutrition & Health Insights
+<img width="1258" height="692" alt="Screenshot 2026-03-25 183417" src="https://github.com/user-attachments/assets/fe3a8054-a5fa-4747-b08d-7d9149816a6e" />
 
-Correlation between calories and BMI
-Health patterns based on diet and activity
-Overall nutrition trends
-
-🟤 Slide 7: Value & Cost Analysis
-
-Price vs nutrition comparison
-Cost-effective healthy food options
-Budget-based dietary insights
 
 📊 Dataset Information
 
